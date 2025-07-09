@@ -1,2 +1,3 @@
 # Engeto_lekce_5
-Tento repozitář slouží jako opora k výuce v Engeto Lekce 5
+Tento repozitar slouzi jako opora k výuce v Engeto Lekce 5 - Testingove akademie
+Pridavam novy radek
