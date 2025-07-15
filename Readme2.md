@@ -1,0 +1,1 @@
+zkouška pro staged a commit přes SOURCE CONTROL.

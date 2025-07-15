@@ -2,3 +2,4 @@
 ENGETO
 Tento Repozitář slouží jako opora k výuce v Engeto lekce 5.
 Přidávám nový řádek, k výuce 5 testingové akademii. 
+zkouška staged a commit hromadně přes Source Control
